@@ -50,7 +50,7 @@ function load(f){
     require(modName + "/features/" + f)(add);
 }
 
-load("v1");
+load("hackusated-conveyor");
 load("v2");
 load("v3");
 load("v4");
