@@ -1,9 +1,9 @@
 {
-    name: "hackustry",
-    displayName: "Hackustry",
-    author: "QmelZ",
-    description: "Hackustry v4",
-    version: 4,
+    name: "hackustry-firepups-edit",
+    displayName: "Hackustry Firepup's Edit",
+    author: "Firepup6500",
+    description: "Hackustry v650.1",
+    version: 650.1,
     minGameVersion: 126,
     hidden: true
 }
