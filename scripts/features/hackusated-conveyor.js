@@ -1,3 +1,4 @@
+/*
 let hconv;
 
 Events.on(ContentInitEvent, () => {
@@ -21,3 +22,4 @@ module.exports = (add) => {
         hconv.buildVisibility = t ? BuildVisibility.shown : BuildVisibility.hidden;
     });
 };
+/*
