@@ -1,0 +1,4 @@
+type: Wall
+size: 2
+health: 2147483647
+category: defense
