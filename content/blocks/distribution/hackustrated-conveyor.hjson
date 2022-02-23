@@ -1,0 +1,8 @@
+type: Conveyor
+health: 9999
+requirements: [
+]
+category: distribution
+speed: 9999
+displayedSpeed: 9999
+research: <none>
