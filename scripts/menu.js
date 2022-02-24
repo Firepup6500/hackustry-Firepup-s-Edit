@@ -43,6 +43,10 @@ function setupDialog(){
         add("op-turrets", "op turrets");
         add("hackusated-conveyor", "hackusated conveyor");
         add("hackusated-walls", "hackusated walls");
+        // There was a mender and overdrive in the code, let's add them back in and see what they do shall we?
+        add("hackusated-mender","hackusated mender");
+        add("hackusated-overdrive","hackusated overdrive");
+        // End of my edits
         add("launch-anywhere", "launch anywhere");
         
     }).growY().width(Vars.mobile ? Core.graphics.getWidth() : Core.graphics.getWidth()/3);
