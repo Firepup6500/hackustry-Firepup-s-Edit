@@ -50,11 +50,9 @@ function load(f){
     require(modName + "/features/" + f)(add);
 }
 
-//I broke something leaving these enabled.
-/*
+//I'm re-adding these.
 load("hackusated-conveyor");
 load("v2");
-*/
 load("v3");
 load("v4");
 
