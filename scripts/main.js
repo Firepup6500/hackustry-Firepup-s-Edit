@@ -8,7 +8,7 @@ Vars.enableConsole = true;
 if(Vars.headless){
     throw "no server support yet";
 }else{
-    // This may break something.
+    // This may break something, but I'm doing it anyways! (disabling the desktop only check)
     rpc();
     title();
     const menu = require(modName + "/menu");
