@@ -8,11 +8,9 @@ Vars.enableConsole = true;
 if(Vars.headless){
     throw "no server support yet";
 }else{
-    if(Core.app.isDesktop()){
-        rpc();
-        title();
-    }
-    
+    // This may break something.
+    rpc();
+    title();
     const menu = require(modName + "/menu");
     let dialog;
     Events.on(ClientLoadEvent, () => {
