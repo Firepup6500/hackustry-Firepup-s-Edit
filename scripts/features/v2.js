@@ -25,7 +25,6 @@ const wallbuild = {
         this.no();
     }
 };
-/*
 let wall, largewall;
 
 Events.on(ContentInitEvent, () => {
@@ -93,4 +92,3 @@ module.exports = (add) => {
     });
     
 };
-*/
