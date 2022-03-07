@@ -25,5 +25,5 @@ assignees: Firepup6500
 **Place an X in these boxes to show you understand.**
 
 - [] **I have updated to the newest commit of Hackustry Firepup's Edit and the latest official release build of Mindustry to make sure this wasn't already fixed.**
-- [] **I am fully aware that this is a forked mod, and that I may be ignored.
+- [] **I am fully aware that this is a forked mod, and that I may be ignored.**
 
