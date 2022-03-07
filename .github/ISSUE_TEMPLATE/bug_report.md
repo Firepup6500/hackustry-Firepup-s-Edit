@@ -16,7 +16,7 @@ assignees: Firepup6500
 
 **Method(s) To Reproduce:** *How you ran across this issue, and how I am supposed to recreate it.*
 
-**All Mods Used:** *Link or put the zip files of all mods other than Exotic Mod used when this issue happened.*
+**All Mods Used:** *Link or put the zip files of all mods other than hackustry-Firepups-Edit used when this issue happened.*
 
 **Crash Logs:** *If you experienced a crash, put the logs here. Otherwise this line can be left alone.*
 
