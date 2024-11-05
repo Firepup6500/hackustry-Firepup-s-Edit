@@ -5,9 +5,9 @@
 
 //Vars.enableConsole = true;
 
-//if(Vars.headless){
+if(Vars.headless){
 //    throw "no server support yet";
-//}else{
+}else{
     // This may break something, but I'm doing it anyways! (disabling the desktop only check)
     rpc();
     title();
@@ -17,7 +17,7 @@
         dialog = menu.setupDialog();
         menu.addSettings(dialog);
     });
-//}
+}
 
 // most pointless thing i have ever done
 function rpc(){
