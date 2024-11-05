@@ -38,8 +38,8 @@ module.exports = (add) => {
         Vars.content.blocks().each(e => {
             if(e.minfo.mod) return;
             
-            if(!(e instanceof Turret)) return;
-            //e.reloadTime = 0;
+            if(!(e instanceof ItemTurret)) return;
+            e.reloadTime = 0;
             e.spread = 0;
             e.inaccuracy = 0;
             e.recoilAmount = 0;
